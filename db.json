@@ -1,12 +1,5 @@
 {
-  "user":[
-    {
-      "id":1,
-      "name":"charchit",
-      "email":"charchit@gmail.com",
-      "password":"charchit"
-    }
-  ],
+  "data":[],
   "dogs": [
     {
       "id": 1,
